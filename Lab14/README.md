@@ -1,7 +1,7 @@
 # Lab 14: Modern CSS Architecture – Tailwind CSS Concept
 
 ## Student Details
-- Name: Kritika
+- Name: Kritika kumari
 - Student ID: BCS2025462
 - Course: B.Tech cse 
 - University: Invertis University, Bareilly
