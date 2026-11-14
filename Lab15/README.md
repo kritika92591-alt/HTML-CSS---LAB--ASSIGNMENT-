@@ -2,7 +2,7 @@
 
 ## Student Details
 - Name: Kritika kumari 
-- Student ID: BCS2025462
+- Student ID: bcs2025462
 - Course: B.Tech Computer Science & Engineering
 - University: Invertis University, Bareilly
 - Subject: HTML and CSS Introduction Lab (BCS352)
