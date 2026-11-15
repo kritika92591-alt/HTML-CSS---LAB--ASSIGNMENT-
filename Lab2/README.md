@@ -4,7 +4,7 @@
 - Name: Kritika
 - Student ID: BCS2025462
 - Course: B.Tech Computer Science & Engineering
-- University: Invertis University, Bareilly
+- University: Invertis University
 - Subject: HTML and CSS Introduction Lab (BCS352)
 - IDE: VS Code
 
