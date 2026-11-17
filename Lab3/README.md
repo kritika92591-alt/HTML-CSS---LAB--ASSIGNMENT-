@@ -1,7 +1,7 @@
 # Lab 3: HTML Tables & Data Representation
 
 ## Student Details
-- Name: Kritika
+- Name: KRITIKA  KUMARII
 - Student ID: BCS2025462
 - Course: B.Tech Computer Science & Engineering
 - University: Invertis University, Bareilly
