@@ -1,7 +1,7 @@
 # Lab 15: Full Capstone Web Project – My Cafe
 
 ## Student Details
-- Name: Kritika kumari 
+- Name: KRITIKA KUMARI
 - Student ID: bcs2025462
 - Course: B.Tech Computer Science & Engineering
 - University: Invertis University, Bareilly
